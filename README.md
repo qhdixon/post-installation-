@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Post Installation </h1>
+This tutorial goes over  setting up basic fuctions within osTicket .<br />
 
 
 
@@ -12,7 +12,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
@@ -20,16 +20,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- OsTicket
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/216AmdQ.png" height="80%" width="80%" alt="Agent Panel"/>
 </p>
 <p>
 Configure Roles
@@ -39,7 +35,7 @@ Supreme Admin
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oav754i.png" height="80%" width="80%" alt="Departments"/>
 </p>
 <p>
 Configure Departments
@@ -49,7 +45,7 @@ System Administrators
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jFTP1Zi.png" height="80%" width="80%" alt="Teams"/>
 </p>
 <p>
 Configure Teams
@@ -60,7 +56,7 @@ Level II Support
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3MSwaQV.png" height="80%" width="80%" alt="Configure Ticket Permissions"/>
 </p>
 <p>
 Allow anyone to create tickets
@@ -70,7 +66,7 @@ Registration Required: Require registration and login to create tickets
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/k0TmI4c.png" height="80%" width="80%" alt="Agents"/>
 </p>
 <p>
 Configure Agents (workers)
@@ -81,7 +77,7 @@ John
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ri6qHpE.png" height="80%" width="80%" alt="Users"/>
 </p>
 <p>
 Configure Users (customers)
@@ -92,7 +88,7 @@ Ken
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oXAeuwO.png" height="80%" width="80%" alt="SLAs"/>
 </p>
 <p>
 Configure SLA
@@ -104,7 +100,9 @@ Sev-C (8 hours, business hours)
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nfTp0Lb.png" height="80%" width="80%" alt="Help Topics"/>
+  
+<img src="https://i.imgur.com/O81iiPn.png" height="80%" width="80%" alt="Help Topics"/>
 </p>
 <p>
 Configure Help Topics
